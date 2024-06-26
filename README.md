@@ -19,20 +19,21 @@ Foodie é um aplicativo de delivery de comidas desenvolvido com React Native e E
 
 2. Inicie o projeto:
   
-  ```sh
-  npm install
-  # ou
-  yarn install
-  ```
+    ```sh
+    npm install
+    # ou
+    yarn install
+    ```
 
 3. Inicie o projeto Expo:
 
-  ```sh
-  expo start
-  ```
+    ```sh
+    expo start
+    ```
 
 Estrutura do Projeto:
 
+```bash
 foodie/
 ├── src/
 |   ├── assets/                 # Arquivos de mídia (imagens, ícones, etc.)
@@ -60,3 +61,5 @@ foodie/
 ├── app.json                # Configurações do Expo
 ├── package.json            # Dependências e scripts do projeto
 ├── README.md               # Documentação do projeto
+```
+
